@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-Makan Siang
 Berlari
-=======
 Sarapan
 Jogging
->>>>>>> 8390268f19f59857d762cbd18a96751f2b495d22
 Pemanasan
 Push up
 Sit up
